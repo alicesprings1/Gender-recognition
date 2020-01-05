@@ -9,4 +9,13 @@ I used PCA algorithm to reduce the dimensions of the intitial characteristic fro
 A four-layer neural network is adopted to do the gender-classification. This is an image of its structure.
 ![neural network](https://github.com/alicesprings1/Gender-recognition/blob/master/4_layer_neural_network.JPG)
 ## GUI for human-computer interraction
-A simple GUI is designed using App Desinger whithin MATLAB. This is a picture illustrating how it works.
+
+A simple GUI is designed using App Desinger whithin MATLAB. This is a picture illustrating how it works.  
+
+![GUI](https://github.com/alicesprings1/Gender-recognition/blob/master/result_demo.JPG)
+
+**For more details, please download the word document and the project files within the repository.**  
+
+**Feel free to contact me if you have any questions or ideas.**  
+
+**E-mail: aliceesprings@outlook.com**
